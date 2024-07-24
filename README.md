@@ -1,4 +1,4 @@
-# Analysis Of Taxi Trips in Chicago
+# Pokemon Characteristics and Performance Analysis
 
 Dataset : [Lihat dataset](https://drive.google.com/file/d/1reCaS7YVPx6yT0GktPC5ynh6ONuF3ih8/view?usp=drive_link)<br>
 Project Detail : [Lihat project](https://drive.google.com/file/d/1desSTnGwREQloxMkutes_CFg1dyGAQzw/view?usp=drive_link)<br>
